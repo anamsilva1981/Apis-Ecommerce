@@ -8,16 +8,15 @@ O microserviço de produtos gerencia todas as operações relacionadas aos produ
 
 - **Cadastro de Produtos:** Adicione novos produtos ao catálogo.
 - **Consulta de Produtos:** Recupere informações sobre produtos específicos ou obtenha uma lista de todos os produtos disponíveis.
+- **Consulta de Produtos por Id:** Recupere informações sobre produtos específicos por ID.
 - **Atualização de Produtos:** Modifique detalhes de produtos existentes.
 - **Remoção de Produtos:** Exclua produtos do catálogo.
 
 ## Tecnologias Utilizadas
 
-- Java
-- Spring Framework
+- Java 17
 - Spring Boot
-- Spring Data JPA
-- Banco de Dados (por exemplo, MySQL, PostgreSQL)
+- Banco de Dados ( MySQL)
 
 ## Pré-requisitos
 
@@ -27,7 +26,7 @@ O microserviço de produtos gerencia todas as operações relacionadas aos produ
 
 ## Como Executar o Microserviço de Produtos
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
+1. Clone este repositório: `https://github.com/anamsilva1981/Apis-Ecommerce.git`
 2. Navegue até o diretório do microserviço de produtos: `cd seu-projeto/microservico-produtos`
 3. Execute o projeto usando o Maven: `mvn spring-boot:run`
 4. O microserviço estará disponível em [http://localhost:8080](http://localhost:8080)
@@ -38,9 +37,11 @@ Certifique-se de configurar corretamente as informações do banco de dados no a
 
 A documentação detalhada da API, incluindo todos os endpoints disponíveis, pode ser encontrada em [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html).
 
-## Contribuições
+## Desenvolvedores
 
-Contribuições são bem-vindas! Se você deseja contribuir para o desenvolvimento deste microserviço ou outros, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Esta Api está sendo desenvolvida pelos seguintes desenvolvedores: 
+Ana Maria: linkedin: https://www.linkedin.com/in/anamsilva1981/ e GitHub: https://github.com/anamsilva1981
+Matheus Pereira: linkedin: https://www.linkedin.com/in/matheuspereira00/ e GitHub: https://github.com/MatheusPereira00
 
 ## Próximos Passos
 
@@ -52,7 +53,5 @@ Contribuições são bem-vindas! Se você deseja contribuir para o desenvolvimen
 - **Microserviço de Categorias:** Planejado.
 - **Microserviço de Subcategorias:** Planejado.
 - **Microserviço de Entrega:** Planejado.
+- **Microserviço de Autenticação:** Planejado.
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
