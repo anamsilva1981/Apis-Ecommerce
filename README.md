@@ -39,9 +39,9 @@ A documentação detalhada da API, incluindo todos os endpoints disponíveis, po
 
 ## Desenvolvedores
 
-Esta Api está sendo desenvolvida pelos seguintes desenvolvedores: 
-Ana Maria: linkedin: https://www.linkedin.com/in/anamsilva1981/ e GitHub: https://github.com/anamsilva1981
-Matheus Pereira: linkedin: https://www.linkedin.com/in/matheuspereira00/ e GitHub: https://github.com/MatheusPereira00
+Esta Api está sendo desenvolvida pelos seguintes desenvolvedores: <br />
+Ana Maria: <br />linkedin: https://www.linkedin.com/in/anamsilva1981/ <br />GitHub: https://github.com/anamsilva1981<br />
+Matheus Pereira: <br />linkedin: https://www.linkedin.com/in/matheuspereira00/<br /> GitHub: https://github.com/MatheusPereira00
 
 ## Próximos Passos
 
